@@ -4,7 +4,7 @@ This repository contains a dataset of abstracts from the Science Journal for Kid
 
 ## Data
 
-The dataset is a curated collection of 283 original scientific abstracts and their adapted abstracts for children. These summaries are sourced from the [Science Journal for Kids (SJK)](https://www.sciencejournalforkids.org/), a platform dedicated to making scientific research accessible and engaging for younger audiences. The dataset covers a diverse range of subjects, including biology, chemistry, health, environmental science, and more. The CSV file is approximately 716 KB in size.
+The dataset is a curated collection of 284 original scientific abstracts and their adapted abstracts for children. These summaries are sourced from the [Science Journal for Kids (SJK)](https://www.sciencejournalforkids.org/), a platform dedicated to making scientific research accessible and engaging for younger audiences. The dataset covers a diverse range of subjects, including biology, chemistry, health, environmental science, and more. The CSV file is approximately 716 KB in size.
 
 ## Data Format
 
