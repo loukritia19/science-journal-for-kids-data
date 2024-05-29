@@ -12,7 +12,7 @@ The dataset includes the following columns:
 
 - **Category**: The category or categories to which the article belongs. This can include areas such as Biodiversity, Conservation, Biology, Chemistry, Health, and Environmental Science.
 - **Title**: The title of the article, providing a concise description of the main topic or finding of the research.
-- **Kids Abstract**: A lay summary of the article aimed at a younger audience, making complex scientific information accessible to children.
-- **Abstract (Original academic paper)**: The abstract from the original academic paper, offering a summary of the research findings and significance in a more technical and detailed manner.
-- **URL (Original academic paper)**: The URL to access the original academic paper, allowing users to refer to the full research document.
-- **Reading Levels**: The suggested reading levels for the lay summary, which may include Elementary school, Middle school, Lower high school, and Upper high school. This helps in tailoring the content to the appropriate age group.
+- **Kids Abstract**: The abstract of the article aimed at a younger audience.
+- **Abstract (Original academic paper)**: The abstract from the original academic paper.
+- **URL (Original academic paper)**: The URL to access the original academic paper.
+- **Reading Levels**: The suggested reading levels for the lay summary, which may include Elementary school, Middle school, Lower high school, and Upper high school. 
