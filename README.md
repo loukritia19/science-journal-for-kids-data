@@ -16,3 +16,18 @@ The dataset includes the following columns:
 - **Abstract (Original academic paper)**: The abstract from the original academic paper.
 - **URL (Original academic paper)**: The URL to access the original academic paper.
 - **Reading Levels**: The suggested reading levels for the lay summary, which may include Elementary school, Middle school, Lower high school, and Upper high school. 
+
+## Citing this Repository
+
+If you use this dataset in your research, please cite it using the following BibTeX entry:
+
+```bibtex
+@inproceedings{BioLaySumm_2024,
+  author       = {Loukritia Stefanou and Tatiana Passali and Grigorios Tsoumakas},
+  title        = {AUTH at BioLaySumm 2024: Bringing Scientific Content to Kids},
+  booktitle    = {Proceedings of the ACL 2024 BioNLP Workshop},
+  year         = {2024},
+  address      = {Bangkok, Thailand},
+  note         = {A paper presented at the BioLaySumm 2024 shared task on lay summarization of biomedical research articles.}
+}
+
